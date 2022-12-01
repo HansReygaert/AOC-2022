@@ -1,6 +1,8 @@
 {
   "name": "day_01",
   "version": "1.0.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.8.0"
   }
 }
