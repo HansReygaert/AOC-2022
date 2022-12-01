@@ -1,0 +1,25 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "description": "advent-of-code_2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HansReygaert/AOC-2022.git"
+  },
+  "keywords": [
+    "aoc",
+    "advent",
+    "code",
+    "2022"
+  ],
+  "author": "Hans Reygaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HansReygaert/AOC-2022/issues"
+  },
+  "homepage": "https://github.com/HansReygaert/AOC-2022#readme"
+}
